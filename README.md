@@ -94,6 +94,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Reflection](#reflection)
     - [Regex](#regex)
     - [SDK](#sdk)
+    try
         - [Official](#official)
         - [Unofficial](#unofficial)
     - [Security](#security)
